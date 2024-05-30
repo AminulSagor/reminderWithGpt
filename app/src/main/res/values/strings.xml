@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reminder With gpt</string>
+    <string name="manual_text">Manual Note</string>
+    <string name="ai_text">Tell GPT</string>
+    <string name="search_text">Search for note</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="reminder">Set Reminder</string>
+    <string name="priorityText">Set the priority level</string>
+    <string name="highText">High</string>
+    <string name="mediumText">Medium</string>
+    <string name="lowText">Low</string>
+    <string name="okText">OK</string>
+</resources>
