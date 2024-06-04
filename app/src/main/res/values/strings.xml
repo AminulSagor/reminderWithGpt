@@ -8,9 +8,10 @@
     <string name="title">Title</string>
     <string name="description">Description</string>
     <string name="reminder">Set Reminder</string>
-    <string name="priorityText">Set the priority level</string>
+    <string name="priorityText">Set the priority</string>
     <string name="highText">High</string>
     <string name="mediumText">Medium</string>
     <string name="lowText">Low</string>
     <string name="okText">OK</string>
+    <string name="gptTextBox">Type a message</string>
 </resources>

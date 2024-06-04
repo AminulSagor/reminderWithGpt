@@ -6,5 +6,7 @@
     <color name="dark_slate_blue">#483D8B</color>
     <color name="charcoal">#404951</color>
     <color name="dialogColor">#018577</color>
+    <color name="gray10">#1a1a1a</color>
+    <color name="lowWhite">#8A7E7E</color>
 
 </resources>
